@@ -11,8 +11,8 @@ layout:
     visible: false
   pagination:
     visible: false
-cover: https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1400&q=80
-coverY: 40
+cover: https://www.bcbsm.com/amslibs/content/dam/public/shared/home/hero.jpg
+coverY: 0
 ---
 
 # Welcome to the BCBS Michigan Knowledge Hub
