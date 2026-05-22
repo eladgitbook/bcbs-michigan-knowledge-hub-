@@ -11,8 +11,8 @@ layout:
     visible: false
   pagination:
     visible: false
-cover: https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80
-coverY: 0
+cover: https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1400&q=80
+coverY: 40
 ---
 
 # Welcome to the BCBS Michigan Knowledge Hub
