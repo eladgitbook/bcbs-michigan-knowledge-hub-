@@ -11,7 +11,7 @@ layout:
     visible: false
   pagination:
     visible: false
-cover: https://www.bcbsm.com/amslibs/content/dam/public/shared/home/hero.jpg
+cover: https://www.bcbsm.com/amslibs/content/dam/public/bcbsm/color/calling-career.jpg
 coverY: 0
 ---
 
